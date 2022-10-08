@@ -1,0 +1,16 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+button {
+    width: 100%;
+    border-radius: 2px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+.theme-dark button {
+    background-color: black;
+    color: white;
+}
